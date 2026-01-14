@@ -1,0 +1,2 @@
+# Emulador-station
+Emu
